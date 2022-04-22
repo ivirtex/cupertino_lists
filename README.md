@@ -16,7 +16,7 @@ The left side is native, and the right side is cupertino_lists.
 Add the package to your pubspec.yaml:
 
 ```yaml
-cupertino_lists: ^1.0.0
+cupertino_lists: ^1.0.1
 ```
 
 Import the library:
