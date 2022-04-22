@@ -7,9 +7,9 @@ This package probably will not be maintained after [#78732](https://github.com/f
 
 The left side is native, and the right side is cupertino_lists.
 
-![notes example](/readme_images/notes.png)
-![reminders example](/readme_images/reminders.png)
-![settings example](/readme_images/settings.png)
+![notes example](https://github.com/ivirtex/cupertino_lists/raw/master/readme_images/notes.png)
+![reminders example](https://github.com/ivirtex/cupertino_lists/raw/master/readme_images/reminders.png)
+![settings example](https://github.com/ivirtex/cupertino_lists/raw/master/readme_images/settings.png)
 
 ## Getting Started
 

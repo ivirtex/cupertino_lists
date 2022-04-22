@@ -53,9 +53,9 @@ packages:
   cupertino_lists:
     dependency: "direct main"
     description:
-      path: "C:\\Users\\hjozw\\OneDrive\\Dokumenty\\Development\\Flutter\\cupertino_lists"
-      relative: false
-    source: path
+      name: cupertino_lists
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "1.0.0"
   fake_async:
     dependency: transitive
