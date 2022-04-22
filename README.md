@@ -74,5 +74,5 @@ If you need old edge-to-edge style, simply use base constructors for `CupertinoL
 
 Feel free to contribute to this project.
 
-Please file feature requests and bugs at the [issue tracker](https://github.com/ivirtex/lan_scanner).
-If you fixed a bug or implemented a feature by yourself, feel free to send a [pull request](https://github.com/ivirtex/lan_scanner/pulls).
+Please file feature requests and bugs at the [issue tracker](https://github.com/ivirtex/cupertino_lists).
+If you fixed a bug or implemented a feature by yourself, feel free to send a [pull request](https://github.com/ivirtex/cupertino_lists/pulls).

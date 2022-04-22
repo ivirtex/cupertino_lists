@@ -1,6 +1,7 @@
 name: cupertino_lists
 description: Package that implements iOS-style grouped lists.
 version: 1.0.0
+repository: https://github.com/ivirtex/cupertino_lists
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
